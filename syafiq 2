@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body bgcolor="navyblue">
+
+  
+<center>
+    <font color="black" face="Cursive" size="12">  My Profile </font> 
+</center>    
+  </h1>
+  <hr width="80%" color="bloodred" size="5" align="left">
+  <hr width="75%" color="green" size="5" align="right">
+
+  <center align="center">
+    <img src="me.jpeg.jpg" alt="Image" width="270" height="325">
+ </center>
+
+
+  <p align="center">
+    <b> ● Nama : Syafiq Fadhlulaah </b>
+  </p>
+
+  <p align="center">
+    <b> ● NIM : 2230803152 </b>
+  </p>
+
+  <p align="center">
+    <b> ● Kelas : 2283E </b>
+  </p>
+
+  <p align="center">
+    <b> ● Tempat, Tanggal Lahir : Palembang, 20 September 2004 </b>
+  </p>
+
+  <p align="center">
+    <b>● Alamat : Jl. R. Sukamto Lrg. Masjid no 86,  Kecamatan ilir Timur III,  Kota Palembang  </b>
+  </p>
+
+  <center>
+   <h3 <font color="black" face="Sishoni brush" size="6"> ● Riwayat Pendidikan  </font></h3>
+</center>
+
+<p align ="center">
+  <b> SD/MI : Kartika II-22 </b>
+</p>
+
+<p align ="center">
+  <b> SMP/MTS : MTSn 2 Palembang </b>
+</p>
+
+<p align ="center">
+  <b> SMA/K : SMKN 2 Palembang </b>
+</p>
+
+<p align ="center">
+  <b> Email : syafiqfadhlullah95@gmail.com </b>
+</p>
+
+<p align ="center">
+  <b>Hompage :  </b>
+</p>
+
+<p align ="center">
+  <b> Hobby : Video Editing </b>
+</p>
+
+<p align ="center">
+  <b> Deskripsi Pribadi : ........ </b>
+</p>
+
+  
+  
+</body>
+</html>
